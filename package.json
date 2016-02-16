@@ -1,0 +1,16 @@
+{
+  "name": "Tech-ins",
+  "version": "0.0.0",
+  "description": "",
+  "main": "week3.js",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "superagent": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
